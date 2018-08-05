@@ -44,5 +44,3 @@ CREATE
 (DarkKnight)-[:RATED {rating: 8}]->(Ryan)
 ;
 ```
-
-Date
